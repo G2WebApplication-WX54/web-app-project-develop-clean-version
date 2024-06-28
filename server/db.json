@@ -77,6 +77,12 @@
       "password": "arte",
       "role": "authority",
       "id": 13
+    },
+    {
+      "email": "ernestozc@gmail.com",
+      "password": "123456",
+      "role": "citizen",
+      "id": 14
     }
   ],
   "citizens": [
@@ -123,6 +129,17 @@
       "city": "Lima",
       "profileImage": "https://picsum.photos/200/300",
       "id": 4
+    },
+    {
+      "firstname": "Ernesto",
+      "lastname": "Zarate Caceres",
+      "email": "ernestozc@gmail.com",
+      "password": "123456",
+      "address": "Jr Junin",
+      "district": "Magadlena",
+      "city": "Lima",
+      "profileImage": "https://i.pinimg.com/236x/2f/97/f0/2f97f05b32547f54ef1bdf99cd207c90.jpg",
+      "id": 5
     }
   ],
   "governments": [
@@ -376,6 +393,27 @@
         "profileImage": "https://picsum.photos/200/300"
       },
       "id": 9
+    },
+    {
+      "type": "Robo",
+      "date": "2024-06-05",
+      "time": "14:30",
+      "district": "Jesus Maria",
+      "location": "WW7X+8WW, Jr. Huiracocha, Jesús María 15072",
+      "description": "Delito menor",
+      "evidence": "",
+      "user": {
+        "firstname": "Ernesto",
+        "lastname": "Zarate Caceres",
+        "email": "ernestozc@gmail.com",
+        "password": "123456",
+        "address": "Jr Junin",
+        "district": "Magadlena",
+        "city": "Lima",
+        "profileImage": "https://i.pinimg.com/236x/2f/97/f0/2f97f05b32547f54ef1bdf99cd207c90.jpg",
+        "id": 5
+      },
+      "id": 10
     }
   ]
 }
